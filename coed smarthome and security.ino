@@ -1,10 +1,10 @@
-#define BLYNK_TEMPLATE_ID "TMPLLcifPANT"
+#define BLYNK_TEMPLATE_ID "TMPLLcifP***"
 #define BLYNK_DEVICE_NAME "Quickstart Template"
-#define BLYNK_AUTH_TOKEN "IbMxlb0PTFrKRF1qPX5aYrbGEfaqF8l6"
+#define BLYNK_AUTH_TOKEN "IbMxlb0PTFrKRF1qPX5aYrbGEfaqF8**"
 
 // Your WiFi credentials.
-char ssid[] = "chobang 2.4";
-char pass[] = "966974189";
+char ssid[] = "Test 2.4";
+char pass[] = "P@ssw0rd";
 char auth[] = BLYNK_AUTH_TOKEN;
 //ติดต่อกับ app blynk
 // You should get Auth Token in the Blynk App.
